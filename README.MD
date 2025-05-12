@@ -17,3 +17,4 @@ https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDat
  ┃ ┣    ⁞
 ```
 의 구조로 root directory에 놓기.
+** utils/image_resize.py 참고
