@@ -2,7 +2,9 @@
 
 # 학습 데이터셋 설정
 
-이미지와 json파일을 다운받아
+https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=153
+
+에서 이미지와 json파일을 다운받아
 ```
 📦data
  ┣ 📂image
