@@ -16,5 +16,4 @@ https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDat
  ┃ ┗ 📜c5_d0_000002.json
  ┃ ┣    ⁞
 ```
-의 구조로 root directory에 놓기.
-** utils/image_resize.py 참고
+의 구조로 root directory에 놓기. (* utils/image_resize.py 참고)
