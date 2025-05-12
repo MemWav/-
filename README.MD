@@ -1,5 +1,3 @@
-# 2025 Spring 종합설계프로젝트 1조 PlantMate
-
 # 학습 데이터셋 설정
 
 https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=153
