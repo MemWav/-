@@ -17,3 +17,7 @@ https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDat
  ┃ ┣    ⁞
 ```
 의 구조로 root directory에 놓기. (* utils/image_resize.py 참고)
+
+# 주의사항
+
+모델 학습 과정에서 nn.CrossEntropyLoss()를 사용하기 때문에 모델 return 부분에 softmax가 적용되어 있지 않음. 추후 정확성 판별 시 softmax 별도 적용 필요.
